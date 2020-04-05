@@ -1,0 +1,15 @@
+p:first-line{
+  font-weight: bold;
+}
+
+p::first-letter{
+  font-size: 32px;
+}
+
+li:nth-of-type(even) >a {
+  background: yellow;
+}
+a:nth-of-type(odd) {
+  background: red;
+}
+
