@@ -1,0 +1,31 @@
+body {
+  font-size: 10px;
+  line-height: 20px;
+}
+
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  letter-spacing: 5px;
+}
+
+a:hover,
+a:visited {
+  color: red;
+  text-decoration: none;
+}
+
+a:focus {
+  color: green;
+}
+
+p a::after {
+  content: "@";
+}
+
+li {
+  list-style-type: lower-roman;
+}

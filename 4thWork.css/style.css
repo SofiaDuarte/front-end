@@ -1,0 +1,19 @@
+h1{
+ color: red;
+}
+
+p{
+  color: blue;
+}
+
+#second-title{
+  color: yellow;
+}
+
+.paragraph{
+  color: palevioletred;
+}
+
+footer p{
+  color: pink;
+}

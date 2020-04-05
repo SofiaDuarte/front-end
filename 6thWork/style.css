@@ -1,0 +1,11 @@
+ul a {
+  color: green;
+}
+
+h2 ~ p {
+  color: red;
+}
+
+p {
+  color: blue;
+}
